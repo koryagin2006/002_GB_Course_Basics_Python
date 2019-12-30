@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GB_Course_Basics_Python" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ViVVlhhe3aHqmpMsBpsxDMIUKz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -84,11 +84,16 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/GB_Course_Basics_Python" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="65" key="SettingsEditor" timestamp="1577736341122">
+    <state x="200" y="74" key="SettingsEditor" timestamp="1577736806777">
       <screen x="0" y="0" width="1600" height="839" />
     </state>
-    <state x="303" y="65" key="SettingsEditor/0.0.1600.839@0.0.1600.839" timestamp="1577736341122" />
+    <state x="200" y="74" key="SettingsEditor/0.0.1600.839@0.0.1600.839" timestamp="1577736806777" />
     <state x="507" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1577735937557">
       <screen x="0" y="0" width="1600" height="839" />
     </state>
