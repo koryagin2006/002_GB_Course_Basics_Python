@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d1078c7-cf14-4b3e-89f0-d06508827a54" name="Default Changelist" comment="" />
+    <list default="true" id="2d1078c7-cf14-4b3e-89f0-d06508827a54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -72,7 +75,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\carne\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,6 +87,19 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/GB_Course_Basics_Python" />
@@ -94,29 +110,33 @@
       <screen x="0" y="0" width="1600" height="839" />
     </state>
     <state x="368" y="19" key="CommitChangelistDialog2/0.0.1600.839@0.0.1600.839" timestamp="1577736962961" />
-    <state width="1579" height="215" key="GridCell.Tab.0.bottom" timestamp="1577737130330">
+    <state width="1579" height="215" key="GridCell.Tab.0.bottom" timestamp="1577955183393">
       <screen x="0" y="0" width="1600" height="839" />
     </state>
-    <state width="1579" height="215" key="GridCell.Tab.0.bottom/0.0.1600.839@0.0.1600.839" timestamp="1577737130330" />
-    <state width="1579" height="215" key="GridCell.Tab.0.center" timestamp="1577737130330">
+    <state width="1579" height="215" key="GridCell.Tab.0.bottom/0.0.1600.839@0.0.1600.839" timestamp="1577955183393" />
+    <state width="1579" height="215" key="GridCell.Tab.0.center" timestamp="1577955183393">
       <screen x="0" y="0" width="1600" height="839" />
     </state>
-    <state width="1579" height="215" key="GridCell.Tab.0.center/0.0.1600.839@0.0.1600.839" timestamp="1577737130330" />
-    <state width="1579" height="215" key="GridCell.Tab.0.left" timestamp="1577737130330">
+    <state width="1579" height="215" key="GridCell.Tab.0.center/0.0.1600.839@0.0.1600.839" timestamp="1577955183393" />
+    <state width="1579" height="215" key="GridCell.Tab.0.left" timestamp="1577955183392">
       <screen x="0" y="0" width="1600" height="839" />
     </state>
-    <state width="1579" height="215" key="GridCell.Tab.0.left/0.0.1600.839@0.0.1600.839" timestamp="1577737130330" />
-    <state width="1579" height="215" key="GridCell.Tab.0.right" timestamp="1577737130330">
+    <state width="1579" height="215" key="GridCell.Tab.0.left/0.0.1600.839@0.0.1600.839" timestamp="1577955183392" />
+    <state width="1579" height="215" key="GridCell.Tab.0.right" timestamp="1577955183393">
       <screen x="0" y="0" width="1600" height="839" />
     </state>
-    <state width="1579" height="215" key="GridCell.Tab.0.right/0.0.1600.839@0.0.1600.839" timestamp="1577737130330" />
-    <state x="200" y="74" key="SettingsEditor" timestamp="1577736806777">
+    <state width="1579" height="215" key="GridCell.Tab.0.right/0.0.1600.839@0.0.1600.839" timestamp="1577955183393" />
+    <state x="459" y="88" key="SettingsEditor" timestamp="1577954852536">
       <screen x="0" y="0" width="1600" height="839" />
     </state>
-    <state x="200" y="74" key="SettingsEditor/0.0.1600.839@0.0.1600.839" timestamp="1577736806777" />
+    <state x="459" y="88" key="SettingsEditor/0.0.1600.839@0.0.1600.839" timestamp="1577954852536" />
     <state x="507" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1577735937557">
       <screen x="0" y="0" width="1600" height="839" />
     </state>
     <state x="507" y="248" key="com.intellij.ide.util.TipDialog/0.0.1600.839@0.0.1600.839" timestamp="1577735937557" />
+    <state x="384" y="275" width="708" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1577740923819">
+      <screen x="0" y="0" width="1600" height="839" />
+    </state>
+    <state x="384" y="275" width="708" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1600.839@0.0.1600.839" timestamp="1577740923819" />
   </component>
 </project>
