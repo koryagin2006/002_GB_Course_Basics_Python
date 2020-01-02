@@ -21,4 +21,18 @@ name = 'Кеша'
 age = 2
 print(name, age)  # склеивание через пробел
 print(name, age, sep='/')  # склеивание данных не через пробел, а через символ, указанный в sep
-print()
+print(name, end=';')
+print(age, end=';')
+print('end')  # склеивание данных
+
+# ввод данных
+# 1. без параметров
+'''
+result = input()
+print('Пользователь ввел',  result)'''
+# 2. с параметром
+name = input()
+print('Меня зовут: ', name)
+age = int(input('Сколько Вам лет?: '))
+period = 20
+print('Через ', period, 'лет Вам будет ', age + period)
