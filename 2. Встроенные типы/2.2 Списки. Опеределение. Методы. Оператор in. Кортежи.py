@@ -22,4 +22,8 @@ print(friends)
 del friends[0]
 print(friends)
 
-# Другие методы списка list
+# Оператор in
+hero = 'Superman'
+if hero.find('man') != -1:  # проверяем, есть ли в слове Superman слово man
+    print('Есть')
+
