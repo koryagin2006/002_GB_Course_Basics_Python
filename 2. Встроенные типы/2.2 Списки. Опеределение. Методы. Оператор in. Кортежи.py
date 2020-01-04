@@ -27,3 +27,29 @@ hero = 'Superman'
 if hero.find('man') != -1:  # проверяем, есть ли в слове Superman слово man
     print('Есть')
 
+if 'man' in hero:
+    print('Есть')
+
+goals = ['стать гуру python', 'здоровье', 'накормить кота']
+if 'здоровье' in goals:
+    print('Все хорошо')
+
+# Тип кортеж - список, который нельзя менять
+# Пользователь вводит количеств оучастников соревнований
+# Пользователь вводит участниов и их места
+# 1. Вывод участников по-алфавиту
+# 2. Поздравить 3-х победителей
+
+print('Соревнования по python')
+count = int(input('Введите количество участников: '))
+i = 1
+members = []
+while i <= count:
+    name = input('Кто занял {} место '.format(i))
+    members.append(name)
+    i += 1
+
+print('В соревнованиях учавствовали: ', sorted(members))
+result = members[:3]
+result = 'Победители: {}. Поздравляем!'.format(result)
+print(result)
