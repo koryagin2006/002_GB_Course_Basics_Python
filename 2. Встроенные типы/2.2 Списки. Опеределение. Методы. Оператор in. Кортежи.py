@@ -12,3 +12,14 @@ print(friends, len(friends))
 
 print(friends.pop())  # удаляет последний элемент + выводит его на экран
 print(friends)
+
+friends.clear()
+print(friends)
+friends = ['Max', 'Leo', 'Kate']
+
+friends.remove('Kate')
+print(friends)
+del friends[0]
+print(friends)
+
+# Другие методы списка list
