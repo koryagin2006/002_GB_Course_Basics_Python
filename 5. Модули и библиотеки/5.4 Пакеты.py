@@ -14,3 +14,14 @@
 # import, from, as ...
 # вложенность пакетов может быть любой (пакет в пакете ...)
 
+from hospital.h import get_main
+
+get_main()
+print('----')
+# Мед
+# Медсестры из пакета "доктора"
+# Все хирурги из пакета "доктора"
+
+from hospital.patients.index import get_index
+
+get_index()  # Все пациенты
