@@ -6,10 +6,6 @@ import sys, os
 
 name = sys.platform
 
-# for i in range(1, 6):
-#     new_path = os.path.join(os.getcwd(), '{}_{}'.format(name, i))
-#     os.mkdir(new_path)
-
 os.makedirs('{}\\{}'.format(os.getcwd(),'5.5_1 Пример'),exist_ok=True)
 
 for i in range(1, 6):
